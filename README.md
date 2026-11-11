@@ -72,7 +72,7 @@ npm run dev
 ## Portfolio Preview
 
 ### Home Page
-![Home Page](pofileop.png)
+![Home Page](profileop.png)
 
 ### About Me
 ![About Me](aboutop.png)
