@@ -69,6 +69,20 @@ npm run dev
 
 5. Open the local URL displayed in your terminal.
 
+## Portfolio Preview
+
+### Home Page
+![Home Page](pofileop.png)
+
+### About Me
+![About Me](aboutop.png)
+
+### Skills
+![Skills](skillsop.png)
+
+### Projects
+![Projects](projectsop.png)
+
 ## Author
 
 **Deepesh V**
